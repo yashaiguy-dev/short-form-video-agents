@@ -1,5 +1,7 @@
 # YT-to-Shorts
 
+[![GitHub](https://img.shields.io/github/stars/yashaiguy-dev/short-form-video-agents?style=social)](https://github.com/yashaiguy-dev/short-form-video-agents)
+
 Fully automated, AI-driven YouTube repurposing pipeline. Give your AI assistant a YouTube URL — it downloads the video, finds the most viral moments, generates editorial illustrations, and delivers ready-to-upload 9:16 vertical clips with animated subtitles.
 
 ---
@@ -24,6 +26,13 @@ Eight-stage pipeline, mostly automated:
 ---
 
 ## Quick Start
+
+### Clone the Repo
+
+```bash
+git clone https://github.com/yashaiguy-dev/short-form-video-agents.git
+cd short-form-video-agents
+```
 
 ### Automatic Setup (Recommended)
 

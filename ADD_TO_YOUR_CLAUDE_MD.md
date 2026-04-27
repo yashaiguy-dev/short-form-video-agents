@@ -1,8 +1,10 @@
 # Add This to Your CLAUDE.md
 
+**GitHub:** [github.com/yashaiguy-dev/short-form-video-agents](https://github.com/yashaiguy-dev/short-form-video-agents)
+
 If you use YT-to-Shorts alongside other projects, add the section below to your main `CLAUDE.md` file so your AI assistant knows how to find and run this pipeline from any directory.
 
-Replace `/FULL/PATH/TO` with the actual path to your yt-to-shorts folder.
+Replace `/FULL/PATH/TO` with the actual path to your short-form-video-agents folder.
 
 ---
 
